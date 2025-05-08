@@ -27,7 +27,7 @@ A company needs to implement secure access to their AWS resources. They have:
 
 Which AWS service combination would best meet these requirements?
 
-- - A) AWS IAM and AWS CloudTrail
+- A) AWS IAM and AWS CloudTrail
 - B) AWS Organizations and AWS IAM
 - C) AWS IAM Identity Center and AWS CloudTrail
 - D) AWS Control Tower and AWS CloudTrail
