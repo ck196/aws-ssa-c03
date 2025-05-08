@@ -9,10 +9,10 @@ This is a full-length practice exam that simulates the actual AWS Certified Solu
 3. **Passing Score**: 720 out of 1000
 4. **Question Types**: Multiple choice, multiple response
 5. **Domains Covered**:
-   - Domain 1: Design Secure Architectures (30%)
-   - Domain 2: Design Resilient Architectures (26%)
-   - Domain 3: Design High-Performing Architectures (24%)
-   - Domain 4: Design Cost-Optimized Architectures (20%)
+ - Domain 1: Design Secure Architectures (30%)
+ - Domain 2: Design Resilient Architectures (26%)
+ - Domain 3: Design High-Performing Architectures (24%)
+ - Domain 4: Design Cost-Optimized Architectures (20%)
 
 ## Practice Exam Questions
 
@@ -27,10 +27,10 @@ A company needs to implement secure access to their AWS resources. They have:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS IAM and AWS CloudTrail
-B) AWS Organizations and AWS IAM
-C) AWS IAM Identity Center and AWS CloudTrail
-D) AWS Control Tower and AWS CloudTrail
+- - A) AWS IAM and AWS CloudTrail
+- B) AWS Organizations and AWS IAM
+- C) AWS IAM Identity Center and AWS CloudTrail
+- D) AWS Control Tower and AWS CloudTrail
 
 **Question 2:**
 A company needs to secure their S3 buckets. They require:
@@ -41,10 +41,10 @@ A company needs to secure their S3 buckets. They require:
 
 Which combination of S3 features would best meet these requirements?
 
-A) SSE-S3, SSL/TLS, S3 Access Logs, Versioning
-B) SSE-KMS, SSL/TLS, CloudTrail, Versioning
-C) SSE-S3, SSL/TLS, CloudTrail, Versioning
-D) SSE-KMS, SSL/TLS, S3 Access Logs, Versioning
+- A) SSE-S3, SSL/TLS, S3 Access Logs, Versioning
+- B) SSE-KMS, SSL/TLS, CloudTrail, Versioning
+- C) SSE-S3, SSL/TLS, CloudTrail, Versioning
+- D) SSE-KMS, SSL/TLS, S3 Access Logs, Versioning
 
 **Question 3:**
 A company needs to implement encryption for their RDS database. Requirements:
@@ -55,10 +55,10 @@ A company needs to implement encryption for their RDS database. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and SSL/TLS
-B) AWS Secrets Manager and SSL/TLS
-C) AWS KMS and AWS Certificate Manager
-D) AWS Secrets Manager and AWS Certificate Manager
+- A) AWS KMS and SSL/TLS
+- B) AWS Secrets Manager and SSL/TLS
+- C) AWS KMS and AWS Certificate Manager
+- D) AWS Secrets Manager and AWS Certificate Manager
 
 **Question 4:**
 A company needs to implement a secure password policy. Requirements:
@@ -69,10 +69,10 @@ A company needs to implement a secure password policy. Requirements:
 
 Which AWS service would best meet these requirements?
 
-A) AWS IAM Password Policy
-B) AWS Secrets Manager
-C) AWS KMS
-D) AWS SSM Parameter Store
+- A) AWS IAM Password Policy
+- B) AWS Secrets Manager
+- C) AWS KMS
+- D) AWS SSM Parameter Store
 
 **Question 5:**
 A company needs to implement secure access to their VPC resources. Requirements:
@@ -83,10 +83,10 @@ A company needs to implement secure access to their VPC resources. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Client VPN and AWS CloudTrail
-B) AWS Site-to-Site VPN and AWS CloudTrail
-C) AWS Direct Connect and AWS CloudTrail
-D) AWS Transit Gateway and AWS CloudTrail
+- A) AWS Client VPN and AWS CloudTrail
+- B) AWS Site-to-Site VPN and AWS CloudTrail
+- C) AWS Direct Connect and AWS CloudTrail
+- D) AWS Transit Gateway and AWS CloudTrail
 
 **Question 6:**
 A company needs to implement secure access to their EC2 instances. Requirements:
@@ -97,10 +97,10 @@ A company needs to implement secure access to their EC2 instances. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Systems Manager Session Manager
-B) AWS Systems Manager Run Command
-C) AWS Systems Manager Patch Manager
-D) AWS Systems Manager Parameter Store
+- A) AWS Systems Manager Session Manager
+- B) AWS Systems Manager Run Command
+- C) AWS Systems Manager Patch Manager
+- D) AWS Systems Manager Parameter Store
 
 **Question 7:**
 A company needs to implement secure access to their API Gateway. Requirements:
@@ -111,10 +111,10 @@ A company needs to implement secure access to their API Gateway. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon API Gateway with AWS WAF
-B) Amazon API Gateway with AWS Cognito
-C) Amazon API Gateway with AWS Lambda Authorizer
-D) Amazon API Gateway with AWS IAM
+- A) Amazon API Gateway with AWS WAF
+- B) Amazon API Gateway with AWS Cognito
+- C) Amazon API Gateway with AWS Lambda Authorizer
+- D) Amazon API Gateway with AWS IAM
 
 **Question 8:**
 A company needs to implement secure access to their DynamoDB table. Requirements:
@@ -125,10 +125,10 @@ A company needs to implement secure access to their DynamoDB table. Requirements
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS IAM and AWS KMS
-B) AWS IAM and AWS Secrets Manager
-C) AWS IAM and AWS Certificate Manager
-D) AWS IAM and AWS CloudHSM
+- A) AWS IAM and AWS KMS
+- B) AWS IAM and AWS Secrets Manager
+- C) AWS IAM and AWS Certificate Manager
+- D) AWS IAM and AWS CloudHSM
 
 **Question 9:**
 A company needs to implement secure access to their ECS containers. Requirements:
@@ -139,10 +139,10 @@ A company needs to implement secure access to their ECS containers. Requirements
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Secrets Manager and AWS CloudTrail
-B) AWS Systems Manager Parameter Store and AWS CloudTrail
-C) AWS Secrets Manager and AWS CloudWatch
-D) AWS Systems Manager Parameter Store and AWS CloudWatch
+- A) AWS Secrets Manager and AWS CloudTrail
+- B) AWS Systems Manager Parameter Store and AWS CloudTrail
+- C) AWS Secrets Manager and AWS CloudWatch
+- D) AWS Systems Manager Parameter Store and AWS CloudWatch
 
 **Question 10:**
 A company needs to implement secure access to their CloudFront distribution. Requirements:
@@ -153,10 +153,10 @@ A company needs to implement secure access to their CloudFront distribution. Req
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS WAF and AWS Shield
-B) AWS WAF and AWS CloudTrail
-C) AWS Shield and AWS CloudTrail
-D) AWS WAF and AWS Config
+- A) AWS WAF and AWS Shield
+- B) AWS WAF and AWS CloudTrail
+- C) AWS Shield and AWS CloudTrail
+- D) AWS WAF and AWS Config
 
 **Question 11:**
 A company needs to implement secure access to their Lambda functions. Requirements:
@@ -167,10 +167,10 @@ A company needs to implement secure access to their Lambda functions. Requiremen
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 12:**
 A company needs to implement secure access to their API Gateway endpoints. Requirements:
@@ -181,10 +181,10 @@ A company needs to implement secure access to their API Gateway endpoints. Requi
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon API Gateway with AWS WAF and AWS CloudTrail
-B) Amazon API Gateway with AWS Cognito and AWS CloudTrail
-C) Amazon API Gateway with AWS Lambda Authorizer and AWS CloudTrail
-D) Amazon API Gateway with AWS IAM and AWS CloudTrail
+- A) Amazon API Gateway with AWS WAF and AWS CloudTrail
+- B) Amazon API Gateway with AWS Cognito and AWS CloudTrail
+- C) Amazon API Gateway with AWS Lambda Authorizer and AWS CloudTrail
+- D) Amazon API Gateway with AWS IAM and AWS CloudTrail
 
 **Question 13:**
 A company needs to implement secure access to their EKS clusters. Requirements:
@@ -195,10 +195,10 @@ A company needs to implement secure access to their EKS clusters. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Secrets Manager and AWS CloudTrail
-B) AWS Systems Manager Parameter Store and AWS CloudTrail
-C) AWS Secrets Manager and AWS CloudWatch
-D) AWS Systems Manager Parameter Store and AWS CloudWatch
+- A) AWS Secrets Manager and AWS CloudTrail
+- B) AWS Systems Manager Parameter Store and AWS CloudTrail
+- C) AWS Secrets Manager and AWS CloudWatch
+- D) AWS Systems Manager Parameter Store and AWS CloudWatch
 
 **Question 14:**
 A company needs to implement secure access to their SQS queues. Requirements:
@@ -209,10 +209,10 @@ A company needs to implement secure access to their SQS queues. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 15:**
 A company needs to implement secure access to their SNS topics. Requirements:
@@ -223,10 +223,10 @@ A company needs to implement secure access to their SNS topics. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 16:**
 A company needs to implement secure access to their Kinesis streams. Requirements:
@@ -237,10 +237,10 @@ A company needs to implement secure access to their Kinesis streams. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 17:**
 A company needs to implement secure access to their EventBridge events. Requirements:
@@ -251,10 +251,10 @@ A company needs to implement secure access to their EventBridge events. Requirem
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 18:**
 A company needs to implement secure access to their Step Functions. Requirements:
@@ -265,10 +265,10 @@ A company needs to implement secure access to their Step Functions. Requirements
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 19:**
 A company needs to implement secure access to their CloudWatch logs. Requirements:
@@ -279,10 +279,10 @@ A company needs to implement secure access to their CloudWatch logs. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 **Question 20:**
 A company needs to implement secure access to their CloudFormation stacks. Requirements:
@@ -293,10 +293,10 @@ A company needs to implement secure access to their CloudFormation stacks. Requi
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS KMS and AWS CloudTrail
-B) AWS Secrets Manager and AWS CloudTrail
-C) AWS KMS and AWS CloudWatch
-D) AWS Secrets Manager and AWS CloudWatch
+- A) AWS KMS and AWS CloudTrail
+- B) AWS Secrets Manager and AWS CloudTrail
+- C) AWS KMS and AWS CloudWatch
+- D) AWS Secrets Manager and AWS CloudWatch
 
 ### Section 2: Design Resilient Architectures (17 questions)
 
@@ -309,10 +309,10 @@ A company needs to implement a highly available web application. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Auto Scaling and Application Load Balancer
-B) AWS Lambda with Amazon API Gateway and Amazon CloudFront
-C) Amazon ECS with Application Load Balancer and Amazon Route 53
-D) Amazon EC2 with Network Load Balancer and Amazon Route 53
+- A) Amazon EC2 with Auto Scaling and Application Load Balancer
+- B) AWS Lambda with Amazon API Gateway and Amazon CloudFront
+- C) Amazon ECS with Application Load Balancer and Amazon Route 53
+- D) Amazon EC2 with Network Load Balancer and Amazon Route 53
 
 **Question 2:**
 A company needs to implement a highly available database solution. Requirements:
@@ -323,10 +323,10 @@ A company needs to implement a highly available database solution. Requirements:
 
 Which AWS service would best meet these requirements?
 
-A) Amazon RDS with Multi-AZ
-B) Amazon DynamoDB
-C) Amazon Aurora
-D) Amazon ElastiCache
+- A) Amazon RDS with Multi-AZ
+- B) Amazon DynamoDB
+- C) Amazon Aurora
+- D) Amazon ElastiCache
 
 **Question 3:**
 A company needs to implement disaster recovery. Requirements:
@@ -337,10 +337,10 @@ A company needs to implement disaster recovery. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon RDS with read replicas
-B) Amazon RDS with Multi-AZ
-C) Amazon DynamoDB with global tables
-D) Amazon Aurora with cross-region replication
+- A) Amazon RDS with read replicas
+- B) Amazon RDS with Multi-AZ
+- C) Amazon DynamoDB with global tables
+- D) Amazon Aurora with cross-region replication
 
 **Question 4:**
 A company needs to implement a highly available application architecture. Requirements:
@@ -351,10 +351,10 @@ A company needs to implement a highly available application architecture. Requir
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Route 53 with failover routing and Amazon RDS with read replicas
-B) Amazon Route 53 with geolocation routing and Amazon DynamoDB with global tables
-C) Amazon Route 53 with latency routing and Amazon Aurora with global database
-D) Amazon Route 53 with weighted routing and Amazon ElastiCache with replication
+- A) Amazon Route 53 with failover routing and Amazon RDS with read replicas
+- B) Amazon Route 53 with geolocation routing and Amazon DynamoDB with global tables
+- C) Amazon Route 53 with latency routing and Amazon Aurora with global database
+- D) Amazon Route 53 with weighted routing and Amazon ElastiCache with replication
 
 **Question 5:**
 A company needs to implement a disaster recovery solution for their S3 data. Requirements:
@@ -365,10 +365,10 @@ A company needs to implement a disaster recovery solution for their S3 data. Req
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with cross-region replication and lifecycle policies
-B) Amazon S3 with versioning and lifecycle policies
-C) Amazon S3 with cross-region replication and versioning
-D) Amazon S3 with versioning and intelligent-tiering
+- A) Amazon S3 with cross-region replication and lifecycle policies
+- B) Amazon S3 with versioning and lifecycle policies
+- C) Amazon S3 with cross-region replication and versioning
+- D) Amazon S3 with versioning and intelligent-tiering
 
 **Question 6:**
 A company needs to implement a highly available application with stateful components. Requirements:
@@ -379,10 +379,10 @@ A company needs to implement a highly available application with stateful compon
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Application Load Balancer and Auto Scaling
-B) Amazon ECS with Application Load Balancer and Auto Scaling
-C) AWS Lambda with API Gateway and Auto Scaling
-D) Amazon EKS with Application Load Balancer and Auto Scaling
+- A) Amazon EC2 with Application Load Balancer and Auto Scaling
+- B) Amazon ECS with Application Load Balancer and Auto Scaling
+- C) AWS Lambda with API Gateway and Auto Scaling
+- D) Amazon EKS with Application Load Balancer and Auto Scaling
 
 **Question 7:**
 A company needs to implement a disaster recovery solution for their EBS volumes. Requirements:
@@ -393,10 +393,10 @@ A company needs to implement a disaster recovery solution for their EBS volumes.
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EBS snapshots with AWS Backup
-B) Amazon EBS snapshots with AWS DataSync
-C) Amazon EBS snapshots with AWS Storage Gateway
-D) Amazon EBS snapshots with AWS Transfer Family
+- A) Amazon EBS snapshots with AWS Backup
+- B) Amazon EBS snapshots with AWS DataSync
+- C) Amazon EBS snapshots with AWS Storage Gateway
+- D) Amazon EBS snapshots with AWS Transfer Family
 
 **Question 8:**
 A company needs to implement a highly available application with microservices. Requirements:
@@ -407,10 +407,10 @@ A company needs to implement a highly available application with microservices. 
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon ECS with Application Load Balancer and AWS Cloud Map
-B) Amazon EKS with Application Load Balancer and AWS Cloud Map
-C) AWS App Mesh with Application Load Balancer and AWS Cloud Map
-D) AWS App Runner with Application Load Balancer and AWS Cloud Map
+- A) Amazon ECS with Application Load Balancer and AWS Cloud Map
+- B) Amazon EKS with Application Load Balancer and AWS Cloud Map
+- C) AWS App Mesh with Application Load Balancer and AWS Cloud Map
+- D) AWS App Runner with Application Load Balancer and AWS Cloud Map
 
 **Question 9:**
 A company needs to implement a disaster recovery solution for their DynamoDB tables. Requirements:
@@ -421,10 +421,10 @@ A company needs to implement a disaster recovery solution for their DynamoDB tab
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon DynamoDB with global tables
-B) Amazon DynamoDB with backup and restore
-C) Amazon DynamoDB with cross-region replication
-D) Amazon DynamoDB with point-in-time recovery
+- A) Amazon DynamoDB with global tables
+- B) Amazon DynamoDB with backup and restore
+- C) Amazon DynamoDB with cross-region replication
+- D) Amazon DynamoDB with point-in-time recovery
 
 **Question 10:**
 A company needs to implement a highly available application with serverless components. Requirements:
@@ -435,10 +435,10 @@ A company needs to implement a highly available application with serverless comp
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Lambda with API Gateway and CloudWatch
-B) AWS Lambda with Application Load Balancer and CloudWatch
-C) AWS Lambda with Network Load Balancer and CloudWatch
-D) AWS Lambda with Elastic Load Balancing and CloudWatch
+- A) AWS Lambda with API Gateway and CloudWatch
+- B) AWS Lambda with Application Load Balancer and CloudWatch
+- C) AWS Lambda with Network Load Balancer and CloudWatch
+- D) AWS Lambda with Elastic Load Balancing and CloudWatch
 
 **Question 11:**
 A company needs to implement a disaster recovery solution for their EFS file systems. Requirements:
@@ -449,10 +449,10 @@ A company needs to implement a disaster recovery solution for their EFS file sys
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Backup with EFS
-B) AWS DataSync with EFS
-C) AWS Storage Gateway with EFS
-D) AWS Transfer Family with EFS
+- A) AWS Backup with EFS
+- B) AWS DataSync with EFS
+- C) AWS Storage Gateway with EFS
+- D) AWS Transfer Family with EFS
 
 **Question 12:**
 A company needs to implement a highly available application with containerized components. Requirements:
@@ -463,10 +463,10 @@ A company needs to implement a highly available application with containerized c
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon ECS with Application Load Balancer and CloudWatch
-B) Amazon EKS with Application Load Balancer and CloudWatch
-C) AWS App Runner with Application Load Balancer and CloudWatch
-D) AWS Fargate with Application Load Balancer and CloudWatch
+- A) Amazon ECS with Application Load Balancer and CloudWatch
+- B) Amazon EKS with Application Load Balancer and CloudWatch
+- C) AWS App Runner with Application Load Balancer and CloudWatch
+- D) AWS Fargate with Application Load Balancer and CloudWatch
 
 **Question 13:**
 A company needs to implement a disaster recovery solution for their RDS databases. Requirements:
@@ -477,10 +477,10 @@ A company needs to implement a disaster recovery solution for their RDS database
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon RDS with Multi-AZ and read replicas
-B) Amazon RDS with Multi-AZ and backup
-C) Amazon RDS with read replicas and backup
-D) Amazon RDS with Multi-AZ and cross-region replication
+- A) Amazon RDS with Multi-AZ and read replicas
+- B) Amazon RDS with Multi-AZ and backup
+- C) Amazon RDS with read replicas and backup
+- D) Amazon RDS with Multi-AZ and cross-region replication
 
 **Question 14:**
 A company needs to implement a highly available application with serverless components. Requirements:
@@ -491,10 +491,10 @@ A company needs to implement a highly available application with serverless comp
 
 Which AWS service combination would best meet these requirements?
 
-A) AWS Lambda with API Gateway and CloudWatch
-B) AWS Lambda with Application Load Balancer and CloudWatch
-C) AWS Lambda with Network Load Balancer and CloudWatch
-D) AWS Lambda with Elastic Load Balancing and CloudWatch
+- A) AWS Lambda with API Gateway and CloudWatch
+- B) AWS Lambda with Application Load Balancer and CloudWatch
+- C) AWS Lambda with Network Load Balancer and CloudWatch
+- D) AWS Lambda with Elastic Load Balancing and CloudWatch
 
 **Question 15:**
 A company needs to implement a disaster recovery solution for their DynamoDB tables. Requirements:
@@ -505,10 +505,10 @@ A company needs to implement a disaster recovery solution for their DynamoDB tab
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon DynamoDB with global tables
-B) Amazon DynamoDB with backup and restore
-C) Amazon DynamoDB with cross-region replication
-D) Amazon DynamoDB with point-in-time recovery
+- A) Amazon DynamoDB with global tables
+- B) Amazon DynamoDB with backup and restore
+- C) Amazon DynamoDB with cross-region replication
+- D) Amazon DynamoDB with point-in-time recovery
 
 **Question 16:**
 A company needs to implement a highly available application with microservices. Requirements:
@@ -519,10 +519,10 @@ A company needs to implement a highly available application with microservices. 
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon ECS with Application Load Balancer and AWS Cloud Map
-B) Amazon EKS with Application Load Balancer and AWS Cloud Map
-C) AWS App Mesh with Application Load Balancer and AWS Cloud Map
-D) AWS App Runner with Application Load Balancer and AWS Cloud Map
+- A) Amazon ECS with Application Load Balancer and AWS Cloud Map
+- B) Amazon EKS with Application Load Balancer and AWS Cloud Map
+- C) AWS App Mesh with Application Load Balancer and AWS Cloud Map
+- D) AWS App Runner with Application Load Balancer and AWS Cloud Map
 
 **Question 17:**
 A company needs to implement a disaster recovery solution for their S3 data. Requirements:
@@ -533,10 +533,10 @@ A company needs to implement a disaster recovery solution for their S3 data. Req
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with cross-region replication and lifecycle policies
-B) Amazon S3 with versioning and lifecycle policies
-C) Amazon S3 with cross-region replication and versioning
-D) Amazon S3 with versioning and intelligent-tiering
+- A) Amazon S3 with cross-region replication and lifecycle policies
+- B) Amazon S3 with versioning and lifecycle policies
+- C) Amazon S3 with cross-region replication and versioning
+- D) Amazon S3 with versioning and intelligent-tiering
 
 ### Section 3: Design High-Performing Architectures (16 questions)
 
@@ -549,10 +549,10 @@ A company needs to optimize their application's performance. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with Lambda@Edge
-B) Amazon Route 53 with Application Load Balancer
-C) AWS Global Accelerator with Network Load Balancer
-D) Amazon CloudFront with Application Load Balancer
+- A) Amazon CloudFront with Lambda@Edge
+- B) Amazon Route 53 with Application Load Balancer
+- C) AWS Global Accelerator with Network Load Balancer
+- D) Amazon CloudFront with Application Load Balancer
 
 **Question 2:**
 A company needs to implement a high-performance database solution. Requirements:
@@ -563,10 +563,10 @@ A company needs to implement a high-performance database solution. Requirements:
 
 Which AWS service would best meet these requirements?
 
-A) Amazon DynamoDB
-B) Amazon Aurora
-C) Amazon RDS
-D) Amazon ElastiCache
+- A) Amazon DynamoDB
+- B) Amazon Aurora
+- C) Amazon RDS
+- D) Amazon ElastiCache
 
 **Question 3:**
 A company needs to implement caching for their web application. Requirements:
@@ -577,10 +577,10 @@ A company needs to implement caching for their web application. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with Lambda@Edge
-B) Amazon ElastiCache with Application Load Balancer
-C) Amazon CloudFront with Application Load Balancer
-D) Amazon ElastiCache with CloudFront
+- A) Amazon CloudFront with Lambda@Edge
+- B) Amazon ElastiCache with Application Load Balancer
+- C) Amazon CloudFront with Application Load Balancer
+- D) Amazon ElastiCache with CloudFront
 
 **Question 4:**
 A company needs to optimize their application's database performance. Requirements:
@@ -591,10 +591,10 @@ A company needs to optimize their application's database performance. Requiremen
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Aurora with read replicas and Multi-AZ
-B) Amazon RDS with read replicas and Multi-AZ
-C) Amazon DynamoDB with global tables
-D) Amazon ElastiCache with Redis
+- A) Amazon Aurora with read replicas and Multi-AZ
+- B) Amazon RDS with read replicas and Multi-AZ
+- C) Amazon DynamoDB with global tables
+- D) Amazon ElastiCache with Redis
 
 **Question 5:**
 A company needs to optimize their application's network performance. Requirements:
@@ -605,10 +605,10 @@ A company needs to optimize their application's network performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 **Question 6:**
 A company needs to optimize their application's compute performance. Requirements:
@@ -619,10 +619,10 @@ A company needs to optimize their application's compute performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Auto Scaling and CloudWatch
-B) AWS Lambda with API Gateway and CloudWatch
-C) Amazon ECS with Auto Scaling and CloudWatch
-D) AWS Fargate with Auto Scaling and CloudWatch
+- A) Amazon EC2 with Auto Scaling and CloudWatch
+- B) AWS Lambda with API Gateway and CloudWatch
+- C) Amazon ECS with Auto Scaling and CloudWatch
+- D) AWS Fargate with Auto Scaling and CloudWatch
 
 **Question 7:**
 A company needs to optimize their application's storage performance. Requirements:
@@ -633,10 +633,10 @@ A company needs to optimize their application's storage performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EBS with Provisioned IOPS
-B) Amazon EFS with Provisioned Throughput
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon FSx with Provisioned IOPS
+- A) Amazon EBS with Provisioned IOPS
+- B) Amazon EFS with Provisioned Throughput
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon FSx with Provisioned IOPS
 
 **Question 8:**
 A company needs to optimize their application's network performance. Requirements:
@@ -647,10 +647,10 @@ A company needs to optimize their application's network performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 **Question 9:**
 A company needs to optimize their application's database performance. Requirements:
@@ -661,10 +661,10 @@ A company needs to optimize their application's database performance. Requiremen
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Aurora with read replicas and Multi-AZ
-B) Amazon RDS with read replicas and Multi-AZ
-C) Amazon DynamoDB with global tables
-D) Amazon ElastiCache with Redis
+- A) Amazon Aurora with read replicas and Multi-AZ
+- B) Amazon RDS with read replicas and Multi-AZ
+- C) Amazon DynamoDB with global tables
+- D) Amazon ElastiCache with Redis
 
 **Question 10:**
 A company needs to optimize their application's compute performance. Requirements:
@@ -675,10 +675,10 @@ A company needs to optimize their application's compute performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Auto Scaling and CloudWatch
-B) AWS Lambda with API Gateway and CloudWatch
-C) Amazon ECS with Auto Scaling and CloudWatch
-D) AWS Fargate with Auto Scaling and CloudWatch
+- A) Amazon EC2 with Auto Scaling and CloudWatch
+- B) AWS Lambda with API Gateway and CloudWatch
+- C) Amazon ECS with Auto Scaling and CloudWatch
+- D) AWS Fargate with Auto Scaling and CloudWatch
 
 **Question 11:**
 A company needs to optimize their application's storage performance. Requirements:
@@ -689,10 +689,10 @@ A company needs to optimize their application's storage performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EBS with Provisioned IOPS
-B) Amazon EFS with Provisioned Throughput
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon FSx with Provisioned IOPS
+- A) Amazon EBS with Provisioned IOPS
+- B) Amazon EFS with Provisioned Throughput
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon FSx with Provisioned IOPS
 
 **Question 12:**
 A company needs to optimize their application's compute performance. Requirements:
@@ -703,10 +703,10 @@ A company needs to optimize their application's compute performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Auto Scaling and CloudWatch
-B) AWS Lambda with API Gateway and CloudWatch
-C) Amazon ECS with Auto Scaling and CloudWatch
-D) AWS Fargate with Auto Scaling and CloudWatch
+- A) Amazon EC2 with Auto Scaling and CloudWatch
+- B) AWS Lambda with API Gateway and CloudWatch
+- C) Amazon ECS with Auto Scaling and CloudWatch
+- D) AWS Fargate with Auto Scaling and CloudWatch
 
 **Question 13:**
 A company needs to optimize their application's storage performance. Requirements:
@@ -717,10 +717,10 @@ A company needs to optimize their application's storage performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EBS with Provisioned IOPS
-B) Amazon EFS with Provisioned Throughput
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon FSx with Provisioned IOPS
+- A) Amazon EBS with Provisioned IOPS
+- B) Amazon EFS with Provisioned Throughput
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon FSx with Provisioned IOPS
 
 **Question 14:**
 A company needs to optimize their application's compute performance. Requirements:
@@ -731,10 +731,10 @@ A company needs to optimize their application's compute performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 with Auto Scaling and CloudWatch
-B) AWS Lambda with API Gateway and CloudWatch
-C) Amazon ECS with Auto Scaling and CloudWatch
-D) AWS Fargate with Auto Scaling and CloudWatch
+- A) Amazon EC2 with Auto Scaling and CloudWatch
+- B) AWS Lambda with API Gateway and CloudWatch
+- C) Amazon ECS with Auto Scaling and CloudWatch
+- D) AWS Fargate with Auto Scaling and CloudWatch
 
 **Question 15:**
 A company needs to optimize their application's storage performance. Requirements:
@@ -745,10 +745,10 @@ A company needs to optimize their application's storage performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EBS with Provisioned IOPS
-B) Amazon EFS with Provisioned Throughput
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon FSx with Provisioned IOPS
+- A) Amazon EBS with Provisioned IOPS
+- B) Amazon EFS with Provisioned Throughput
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon FSx with Provisioned IOPS
 
 **Question 16:**
 A company needs to optimize their application's network performance. Requirements:
@@ -759,10 +759,10 @@ A company needs to optimize their application's network performance. Requirement
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 ### Section 4: Design Cost-Optimized Architectures (12 questions)
 
@@ -775,10 +775,10 @@ A company needs to optimize their compute costs. They have:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 Spot Instances with Auto Scaling
-B) AWS Lambda with Amazon EventBridge
-C) Amazon EC2 Reserved Instances with Auto Scaling
-D) AWS Fargate with Amazon EventBridge
+- A) Amazon EC2 Spot Instances with Auto Scaling
+- B) AWS Lambda with Amazon EventBridge
+- C) Amazon EC2 Reserved Instances with Auto Scaling
+- D) AWS Fargate with Amazon EventBridge
 
 **Question 2:**
 A company needs to optimize their storage costs. They have:
@@ -789,10 +789,10 @@ A company needs to optimize their storage costs. They have:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with S3 Intelligent-Tiering
-B) Amazon EFS with lifecycle policies
-C) Amazon S3 with S3 Lifecycle policies
-D) Amazon EBS with snapshot lifecycle
+- A) Amazon S3 with S3 Intelligent-Tiering
+- B) Amazon EFS with lifecycle policies
+- C) Amazon S3 with S3 Lifecycle policies
+- D) Amazon EBS with snapshot lifecycle
 
 **Question 3:**
 A company needs to optimize their compute costs for a batch processing workload. Requirements:
@@ -803,10 +803,10 @@ A company needs to optimize their compute costs for a batch processing workload.
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 Spot Fleet with Auto Scaling
-B) AWS Lambda with Amazon EventBridge
-C) Amazon ECS with Fargate Spot
-D) AWS Batch with Spot Instances
+- A) Amazon EC2 Spot Fleet with Auto Scaling
+- B) AWS Lambda with Amazon EventBridge
+- C) Amazon ECS with Fargate Spot
+- D) AWS Batch with Spot Instances
 
 **Question 4:**
 A company needs to optimize their storage costs for archival data. Requirements:
@@ -817,10 +817,10 @@ A company needs to optimize their storage costs for archival data. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with S3 Glacier Deep Archive
-B) Amazon S3 with S3 Glacier
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon S3 with S3 Standard-IA
+- A) Amazon S3 with S3 Glacier Deep Archive
+- B) Amazon S3 with S3 Glacier
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon S3 with S3 Standard-IA
 
 **Question 5:**
 A company needs to optimize their network costs. Requirements:
@@ -831,10 +831,10 @@ A company needs to optimize their network costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 **Question 6:**
 A company needs to optimize their database costs. Requirements:
@@ -845,10 +845,10 @@ A company needs to optimize their database costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Aurora Serverless
-B) Amazon RDS with Reserved Instances
-C) Amazon DynamoDB with On-Demand capacity
-D) Amazon ElastiCache with Reserved Nodes
+- A) Amazon Aurora Serverless
+- B) Amazon RDS with Reserved Instances
+- C) Amazon DynamoDB with On-Demand capacity
+- D) Amazon ElastiCache with Reserved Nodes
 
 **Question 7:**
 A company needs to optimize their compute costs for a batch processing workload. Requirements:
@@ -859,10 +859,10 @@ A company needs to optimize their compute costs for a batch processing workload.
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 Spot Fleet with Auto Scaling
-B) AWS Lambda with Amazon EventBridge
-C) Amazon ECS with Fargate Spot
-D) AWS Batch with Spot Instances
+- A) Amazon EC2 Spot Fleet with Auto Scaling
+- B) AWS Lambda with Amazon EventBridge
+- C) Amazon ECS with Fargate Spot
+- D) AWS Batch with Spot Instances
 
 **Question 8:**
 A company needs to optimize their storage costs for archival data. Requirements:
@@ -873,10 +873,10 @@ A company needs to optimize their storage costs for archival data. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with S3 Glacier Deep Archive
-B) Amazon S3 with S3 Glacier
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon S3 with S3 Standard-IA
+- A) Amazon S3 with S3 Glacier Deep Archive
+- B) Amazon S3 with S3 Glacier
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon S3 with S3 Standard-IA
 
 **Question 9:**
 A company needs to optimize their network costs. Requirements:
@@ -887,10 +887,10 @@ A company needs to optimize their network costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 **Question 10:**
 A company needs to optimize their database costs. Requirements:
@@ -901,10 +901,10 @@ A company needs to optimize their database costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Aurora Serverless
-B) Amazon RDS with Reserved Instances
-C) Amazon DynamoDB with On-Demand capacity
-D) Amazon ElastiCache with Reserved Nodes
+- A) Amazon Aurora Serverless
+- B) Amazon RDS with Reserved Instances
+- C) Amazon DynamoDB with On-Demand capacity
+- D) Amazon ElastiCache with Reserved Nodes
 
 **Question 11:**
 A company needs to optimize their compute costs for a batch processing workload. Requirements:
@@ -915,10 +915,10 @@ A company needs to optimize their compute costs for a batch processing workload.
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon EC2 Spot Fleet with Auto Scaling
-B) AWS Lambda with Amazon EventBridge
-C) Amazon ECS with Fargate Spot
-D) AWS Batch with Spot Instances
+- A) Amazon EC2 Spot Fleet with Auto Scaling
+- B) AWS Lambda with Amazon EventBridge
+- C) Amazon ECS with Fargate Spot
+- D) AWS Batch with Spot Instances
 
 **Question 12:**
 A company needs to optimize their storage costs for archival data. Requirements:
@@ -929,10 +929,10 @@ A company needs to optimize their storage costs for archival data. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon S3 with S3 Glacier Deep Archive
-B) Amazon S3 with S3 Glacier
-C) Amazon S3 with S3 Intelligent-Tiering
-D) Amazon S3 with S3 Standard-IA
+- A) Amazon S3 with S3 Glacier Deep Archive
+- B) Amazon S3 with S3 Glacier
+- C) Amazon S3 with S3 Intelligent-Tiering
+- D) Amazon S3 with S3 Standard-IA
 
 **Question 13:**
 A company needs to optimize their network costs. Requirements:
@@ -943,10 +943,10 @@ A company needs to optimize their network costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon CloudFront with AWS Global Accelerator
-B) Amazon Route 53 with AWS Global Accelerator
-C) Amazon CloudFront with Amazon Route 53
-D) AWS Global Accelerator with Amazon Route 53
+- A) Amazon CloudFront with AWS Global Accelerator
+- B) Amazon Route 53 with AWS Global Accelerator
+- C) Amazon CloudFront with Amazon Route 53
+- D) AWS Global Accelerator with Amazon Route 53
 
 **Question 14:**
 A company needs to optimize their database costs. Requirements:
@@ -957,10 +957,10 @@ A company needs to optimize their database costs. Requirements:
 
 Which AWS service combination would best meet these requirements?
 
-A) Amazon Aurora Serverless
-B) Amazon RDS with Reserved Instances
-C) Amazon DynamoDB with On-Demand capacity
-D) Amazon ElastiCache with Reserved Nodes
+- A) Amazon Aurora Serverless
+- B) Amazon RDS with Reserved Instances
+- C) Amazon DynamoDB with On-Demand capacity
+- D) Amazon ElastiCache with Reserved Nodes
 
 ## Answer Key with Explanations
 
@@ -1044,37 +1044,37 @@ D) Amazon ElastiCache with Reserved Nodes
 ## Scoring Guide
 
 1. **Calculate Your Score**
-   - Each correct answer: 15.38 points
-   - Total possible score: 1000 points
-   - Passing score: 720 points
+ - Each correct answer: 15.38 points
+ - Total possible score: 1000 points
+ - Passing score: 720 points
 
 2. **Score Interpretation**
-   - 720-1000: Pass
-   - Below 720: Needs more study
+ - 720-1000: Pass
+ - Below 720: Needs more study
 
 3. **Domain Performance**
-   - Calculate scores for each domain
-   - Identify weak areas
-   - Focus study on domains with lower scores
+ - Calculate scores for each domain
+ - Identify weak areas
+ - Focus study on domains with lower scores
 
 ## Exam Tips
 
 1. **Time Management**
-   - Allocate about 2 minutes per question
-   - Mark difficult questions for review
-   - Don't spend too much time on any single question
+ - Allocate about 2 minutes per question
+ - Mark difficult questions for review
+ - Don't spend too much time on any single question
 
 2. **Question Strategy**
-   - Read questions carefully
-   - Eliminate obviously incorrect options
-   - Consider all requirements
-   - Watch for absolute terms
+ - Read questions carefully
+ - Eliminate obviously incorrect options
+ - Consider all requirements
+ - Watch for absolute terms
 
 3. **Answer Selection**
-   - Choose the best answer
-   - Consider cost implications
-   - Think about scalability
-   - Consider security best practices
+ - Choose the best answer
+ - Consider cost implications
+ - Think about scalability
+ - Consider security best practices
 
 Remember to:
 1. Take the exam under timed conditions
